@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  
+  }
+  
+  .productContainer{
+    display: flex;
+    flex-wrap: wrap;
+  
+  }
+  
+  
+  .productContainer > div {
+    text-align: center;
+    width: 300px;
+    box-shadow: 0 0 10px #8a7070;
+    margin: 10px;
+  
+  }
+  
+  .productContainer > div:hover {
+    background-color: aqua;
+  
+  }
+  
+  .productItem{
+    text-align: center;
+    box-shadow: 0 0 10px;
+    margin: 10px;
+  
+  
+  }
+
+  .App{
+    
+    margin-top: 40px;
+    align-items: center;
+  }
