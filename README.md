@@ -1,6 +1,6 @@
 # Project Demo
 
-[Shopping Cart ](http://store-shoppingcart-adeelmalik.surge.sh/products)
+[Shopping Cart ](http://store-shoppingcart-adeelmalik.surge.sh)
 
 
 # Getting Started with Create React App
